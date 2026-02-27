@@ -1,3 +1,7 @@
+# Title : hellow world
+# Author : Lee sungryul
+# Data : 26.2.27
+
 #include<iostream>
 int main(void)
 {
@@ -5,4 +9,5 @@ int main(void)
 	std::cout << std::endl;
 	return 0;
 }
+
 
